@@ -6,7 +6,10 @@ A mesterséges intelligencia generációról generációra fejlődik, a termész
 
 ## **🎥 Demó**
 
-*(Hamarosan: Egy GIF animáció a működő AI-ról)*
+
+https://github.com/user-attachments/assets/e574ba6b-714b-4a40-b9fc-223dfd7a1388
+
+
 
 ## **📋 Tartalomjegyzék**
 
